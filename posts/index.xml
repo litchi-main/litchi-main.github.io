@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on myBlogIG IDK</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://litchi-main.github.io/posts/</link>
     <description>Recent content in Posts on myBlogIG IDK</description>
     <generator>Hugo -- 0.153.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Dec 2025 21:52:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://litchi-main.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image and Code Block</title>
-      <link>http://localhost:1313/posts/image-and-code-block/</link>
+      <link>https://litchi-main.github.io/posts/image-and-code-block/</link>
       <pubDate>Tue, 23 Dec 2025 21:52:50 +0200</pubDate>
-      <guid>http://localhost:1313/posts/image-and-code-block/</guid>
+      <guid>https://litchi-main.github.io/posts/image-and-code-block/</guid>
       <description>&lt;p&gt;girl, its so confusing sometimes to be a girl&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install nginx
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;super iconic image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/iconic-image.png&#34;&gt;&lt;/p&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img alt=&#34;super iconic image&#34; loading=&#34;lazy&#34; src=&#34;https://litchi-main.github.io/images/iconic-image.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MyBlogIGIDKbutFR</title>
-      <link>http://localhost:1313/posts/myblogig/</link>
+      <link>https://litchi-main.github.io/posts/myblogig/</link>
       <pubDate>Tue, 23 Dec 2025 21:15:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/myblogig/</guid>
+      <guid>https://litchi-main.github.io/posts/myblogig/</guid>
       <description>&lt;p&gt;hieeee,&lt;/p&gt;
 &lt;p&gt;ig nicky minaj is maga now&lt;/p&gt;
 &lt;p&gt;where has the world gone to?&lt;/p&gt;</description>

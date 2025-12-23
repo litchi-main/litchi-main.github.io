@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/image-and-code-block/</loc>
+    <loc>https://litchi-main.github.io/posts/image-and-code-block/</loc>
     <lastmod>2025-12-23T21:52:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://litchi-main.github.io/</loc>
     <lastmod>2025-12-23T21:52:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://litchi-main.github.io/posts/</loc>
     <lastmod>2025-12-23T21:52:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/myblogig/</loc>
+    <loc>https://litchi-main.github.io/posts/myblogig/</loc>
     <lastmod>2025-12-23T21:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://litchi-main.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://litchi-main.github.io/tags/</loc>
   </url>
 </urlset>
